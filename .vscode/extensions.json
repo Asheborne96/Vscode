@@ -1,0 +1,29 @@
+{
+    "recommendations": [
+        // Browser-Safe Extensions
+        "zhuangtongfa.material-theme",
+        "pkief.material-icon-theme",
+        "xabikos.javascriptsnippets",
+        "ecmel.vscode-html-css",
+        "ms-python.python",
+        "esbenp.prettier-vscode",
+        "yzhang.markdown-all-in-one",
+        "hediet.vscode-drawio",
+        "usernamehw.errorlens",
+        "adpyke.codesnap",
+        "codeium.codeium", 
+        "tabnine.tabnine-vscode",
+
+        // Remote-Server Extensions
+        "ms-toolsai.jupyter",
+        "ms-python.vscode-pylance",
+        "ms-vscode.cpptools",
+        "vscjava.vscode-java-pack",
+        "bmewburn.vscode-intelephense-client",
+        "ritwickdey.liveserver",
+        "humao.rest-client",
+        "ms-azuretools.vscode-docker",
+        "ms-vscode-remote.remote-ssh",
+        "github.vscode-pull-request-github"
+    ]
+}
